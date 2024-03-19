@@ -1,0 +1,12 @@
+.container {
+    width: 85%;
+    margin-top: 2rem;
+    display: flex;
+    padding: 1rem;
+    box-shadow: 1px 1px 2px 1px grey;
+  }
+  .desc {
+    text-align: left;
+    padding: 2rem;
+  }
+  

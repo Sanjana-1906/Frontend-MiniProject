@@ -1,0 +1,13 @@
+.content {
+    position: relative;
+  }
+  
+  .text-block {
+    position: absolute;
+    bottom: 60%;
+    right: 15%;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
